@@ -1,0 +1,17 @@
+   @media screen and (max-width:576px) {
+       .card-1 {
+           flex-direction: column;
+
+       }
+
+       .card-1-img {
+           height: 100vh;
+           display: flex;
+           align-items: center;
+       }
+
+       .card-1-img img {
+           align-items: center;
+          
+       }
+   }
